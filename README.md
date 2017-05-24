@@ -1,4 +1,4 @@
-# Tackling **Cats vs Dogs ** kaggle challenge using **transfer-learning** and pytorch
+# Tackling **Cats vs Dogs** kaggle challenge using **transfer-learning** and pytorch
 
  
 
@@ -22,8 +22,7 @@
 
 and then asks us to predict the category of 12,500 test images (Cat or Dog). The submission is evaluated based on log loss (smaller is better):
 
-$$ \textrm{LogLoss} = - \frac{1}{n} \sum_{i=1}^n \left[ y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i)\right],$$
-
+![LogLoss equation](./figures/render.png)
  
 
 ## Approach
