@@ -43,4 +43,6 @@ As shown in the figure below, my approach will be as follows:
 
 As in some other projects, I'll use [ **Pytorch** ](pytorch.org), which I am increasingly a fan of.
 
- 
+Here's the link to the notebook: 
+https://nbviewer.jupyter.org/github/sangeetkar/cats_vs_dogs_kaggle/blob/master/cnet.ipynb
+
